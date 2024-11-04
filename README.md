@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1304-longest-happy-string](https://github.com/nithya7089/DSA-Problems/tree/master/1304-longest-happy-string) |
 | [3195-separate-black-and-white-balls](https://github.com/nithya7089/DSA-Problems/tree/master/3195-separate-black-and-white-balls) |
+| [3451-string-compression-iii](https://github.com/nithya7089/DSA-Problems/tree/master/3451-string-compression-iii) |
 ## Greedy
 |  |
 | ------- |
