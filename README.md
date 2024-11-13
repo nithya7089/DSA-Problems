@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [2699-count-the-number-of-fair-pairs](https://github.com/nithya7089/DSA-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/nithya7089/DSA-Problems/tree/master/3195-separate-black-and-white-balls) |
 ## String
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nithya7089/DSA-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nithya7089/DSA-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2554-minimum-total-distance-traveled](https://github.com/nithya7089/DSA-Problems/tree/master/2554-minimum-total-distance-traveled) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/nithya7089/DSA-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/nithya7089/DSA-Problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Backtracking
 |  |
@@ -82,4 +84,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2554-minimum-total-distance-traveled](https://github.com/nithya7089/DSA-Problems/tree/master/2554-minimum-total-distance-traveled) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/nithya7089/DSA-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [2699-count-the-number-of-fair-pairs](https://github.com/nithya7089/DSA-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 <!---LeetCode Topics End-->
