@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1304-longest-happy-string](https://github.com/nithya7089/DSA-Problems/tree/master/1304-longest-happy-string) |
 | [2164-two-best-non-overlapping-events](https://github.com/nithya7089/DSA-Problems/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/nithya7089/DSA-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/nithya7089/DSA-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/nithya7089/DSA-Problems/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Math
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nithya7089/DSA-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/nithya7089/DSA-Problems/tree/master/2554-minimum-total-distance-traveled) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nithya7089/DSA-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/nithya7089/DSA-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/nithya7089/DSA-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/nithya7089/DSA-Problems/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/nithya7089/DSA-Problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/nithya7089/DSA-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/nithya7089/DSA-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/nithya7089/DSA-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Graph
 |  |
 | ------- |
