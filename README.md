@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0670-maximum-swap](https://github.com/nithya7089/DSA-Problems/tree/master/0670-maximum-swap) |
 | [1304-longest-happy-string](https://github.com/nithya7089/DSA-Problems/tree/master/1304-longest-happy-string) |
+| [1917-maximum-average-pass-ratio](https://github.com/nithya7089/DSA-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nithya7089/DSA-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3195-separate-black-and-white-balls](https://github.com/nithya7089/DSA-Problems/tree/master/3195-separate-black-and-white-balls) |
 ## Heap (Priority Queue)
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/nithya7089/DSA-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/nithya7089/DSA-Problems/tree/master/1304-longest-happy-string) |
+| [1917-maximum-average-pass-ratio](https://github.com/nithya7089/DSA-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/nithya7089/DSA-Problems/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/nithya7089/DSA-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/nithya7089/DSA-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nithya7089/DSA-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nithya7089/DSA-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/nithya7089/DSA-Problems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1917-maximum-average-pass-ratio](https://github.com/nithya7089/DSA-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [1972-rotating-the-box](https://github.com/nithya7089/DSA-Problems/tree/master/1972-rotating-the-box) |
 | [2164-two-best-non-overlapping-events](https://github.com/nithya7089/DSA-Problems/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nithya7089/DSA-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
