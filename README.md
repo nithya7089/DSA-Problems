@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/nithya7089/DSA-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nithya7089/DSA-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nithya7089/DSA-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nithya7089/DSA-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/nithya7089/DSA-Problems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/nithya7089/DSA-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [1972-rotating-the-box](https://github.com/nithya7089/DSA-Problems/tree/master/1972-rotating-the-box) |
@@ -228,4 +229,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/nithya7089/DSA-Problems/tree/master/2868-continuous-subarrays) |
+## Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nithya7089/DSA-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nithya7089/DSA-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
