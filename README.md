@@ -118,11 +118,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/nithya7089/DSA-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/nithya7089/DSA-Problems/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/nithya7089/DSA-Problems/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/nithya7089/DSA-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/nithya7089/DSA-Problems/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/nithya7089/DSA-Problems/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
 |  |
 | ------- |
