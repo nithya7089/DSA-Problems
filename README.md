@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0368-largest-divisible-subset](https://github.com/nithya7089/DSA-Problems/tree/master/0368-largest-divisible-subset) |
 | [0670-maximum-swap](https://github.com/nithya7089/DSA-Problems/tree/master/0670-maximum-swap) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nithya7089/DSA-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/nithya7089/DSA-Problems/tree/master/2050-count-good-numbers) |
 | [3548-find-the-count-of-good-integers](https://github.com/nithya7089/DSA-Problems/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nithya7089/DSA-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Array
@@ -383,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nithya7089/DSA-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3548-find-the-count-of-good-integers](https://github.com/nithya7089/DSA-Problems/tree/master/3548-find-the-count-of-good-integers) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/nithya7089/DSA-Problems/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
