@@ -1,25 +1,49 @@
-#include <ext/pb_ds/assoc_container.hpp>
-using namespace __gnu_pbds;
-#define ordered_set tree<int, null_type, less<int>, rb_tree_tag, tree_order_statistics_node_update>
+class FenwickTree {
+private:
+    vector<int> tree;
+
+public:
+    FenwickTree(int size) : tree(size + 1, 0) {}
+
+    void update(int index, int delta) {
+        index++;
+        while (index < tree.size()) {
+            tree[index] += delta;
+            index += index & -index;
+        }
+    }
+
+    int query(int index) {
+        index++;
+        int res = 0;
+        while (index > 0) {
+            res += tree[index];
+            index -= index & -index;
+        }
+        return res;
+    }
+};
 
 class Solution {
 public:
     long long goodTriplets(vector<int>& nums1, vector<int>& nums2) {
-        unordered_map<int, int> mpp;
-        // Store indexes from nums1 in mpp
-        for (int i = 0; i < nums1.size(); i++) 
-            mpp[nums1[i]] = i;
-        
-        ordered_set st;
-        long long total = 0 , n = nums2.size();
-        
+        int n = nums1.size();
+        vector<int> pos2(n), reversedIndexMapping(n);
         for (int i = 0; i < n; i++) {
-            int idx = mpp[nums2[i]];    
-            int left = st.order_of_key(idx); // elements < idx 
-            int right = (n - 1 - idx) - (st.size() - left); // elements > idx
-            total += (long long) left * right; // triplets with idx as middle
-            st.insert(idx);
+            pos2[nums2[i]] = i;
         }
-        return total;
+        for (int i = 0; i < n; i++) {
+            reversedIndexMapping[pos2[nums1[i]]] = i;
+        }
+        FenwickTree tree(n);
+        long long res = 0;
+        for (int value = 0; value < n; value++) {
+            int pos = reversedIndexMapping[value];
+            int left = tree.query(pos);
+            tree.update(pos, 1);
+            int right = (n - 1 - pos) - (value - left);
+            res += (long long)left * right;
+        }
+        return res;
     }
 };
