@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/nithya7089/DSA-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/nithya7089/DSA-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/nithya7089/DSA-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/nithya7089/DSA-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/nithya7089/DSA-Problems/tree/master/2465-shifting-letters-ii) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/nithya7089/DSA-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/nithya7089/DSA-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/nithya7089/DSA-Problems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/nithya7089/DSA-Problems/tree/master/2164-two-best-non-overlapping-events) |
 | [2280-count-good-triplets-in-an-array](https://github.com/nithya7089/DSA-Problems/tree/master/2280-count-good-triplets-in-an-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/nithya7089/DSA-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nithya7089/DSA-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/nithya7089/DSA-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/nithya7089/DSA-Problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/nithya7089/DSA-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/nithya7089/DSA-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/nithya7089/DSA-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nithya7089/DSA-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/nithya7089/DSA-Problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nithya7089/DSA-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2249-count-the-hidden-sequences](https://github.com/nithya7089/DSA-Problems/tree/master/2249-count-the-hidden-sequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/nithya7089/DSA-Problems/tree/master/2358-number-of-ways-to-split-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/nithya7089/DSA-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/nithya7089/DSA-Problems/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/nithya7089/DSA-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/nithya7089/DSA-Problems/tree/master/2915-count-of-interesting-subarrays) |
