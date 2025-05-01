@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1304-longest-happy-string](https://github.com/nithya7089/DSA-Problems/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/nithya7089/DSA-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/nithya7089/DSA-Problems/tree/master/1917-maximum-average-pass-ratio) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nithya7089/DSA-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/nithya7089/DSA-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/nithya7089/DSA-Problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nithya7089/DSA-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nithya7089/DSA-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2164-two-best-non-overlapping-events](https://github.com/nithya7089/DSA-Problems/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nithya7089/DSA-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nithya7089/DSA-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2232-adding-spaces-to-a-string](https://github.com/nithya7089/DSA-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2249-count-the-hidden-sequences](https://github.com/nithya7089/DSA-Problems/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/nithya7089/DSA-Problems/tree/master/2262-solving-questions-with-brainpower) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0368-largest-divisible-subset](https://github.com/nithya7089/DSA-Problems/tree/master/0368-largest-divisible-subset) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nithya7089/DSA-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/nithya7089/DSA-Problems/tree/master/2164-two-best-non-overlapping-events) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nithya7089/DSA-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2554-minimum-total-distance-traveled](https://github.com/nithya7089/DSA-Problems/tree/master/2554-minimum-total-distance-traveled) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nithya7089/DSA-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/nithya7089/DSA-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1468-check-if-n-and-its-double-exist](https://github.com/nithya7089/DSA-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/nithya7089/DSA-Problems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/nithya7089/DSA-Problems/tree/master/2164-two-best-non-overlapping-events) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nithya7089/DSA-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/nithya7089/DSA-Problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/nithya7089/DSA-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nithya7089/DSA-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/nithya7089/DSA-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nithya7089/DSA-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/nithya7089/DSA-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/nithya7089/DSA-Problems/tree/master/2868-continuous-subarrays) |
 ## Sliding Window
@@ -327,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/nithya7089/DSA-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nithya7089/DSA-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/nithya7089/DSA-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/nithya7089/DSA-Problems/tree/master/2868-continuous-subarrays) |
 ## Simulation
