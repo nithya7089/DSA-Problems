@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2300-construct-string-with-repeat-limit](https://github.com/nithya7089/DSA-Problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nithya7089/DSA-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nithya7089/DSA-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/nithya7089/DSA-Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/nithya7089/DSA-Problems/tree/master/3195-separate-black-and-white-balls) |
 ## Heap (Priority Queue)
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/nithya7089/DSA-Problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2915-count-of-interesting-subarrays](https://github.com/nithya7089/DSA-Problems/tree/master/2915-count-of-interesting-subarrays) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/nithya7089/DSA-Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/nithya7089/DSA-Problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/nithya7089/DSA-Problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/nithya7089/DSA-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
