@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1063-best-sightseeing-pair](https://github.com/nithya7089/DSA-Problems/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/nithya7089/DSA-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/nithya7089/DSA-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1293-three-consecutive-odds](https://github.com/nithya7089/DSA-Problems/tree/master/1293-three-consecutive-odds) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nithya7089/DSA-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nithya7089/DSA-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nithya7089/DSA-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
