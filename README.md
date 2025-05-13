@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/nithya7089/DSA-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/nithya7089/DSA-Problems/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/nithya7089/DSA-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/nithya7089/DSA-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/nithya7089/DSA-Problems/tree/master/3637-count-number-of-balanced-permutations) |
 ## Greedy
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2050-count-good-numbers](https://github.com/nithya7089/DSA-Problems/tree/master/2050-count-good-numbers) |
 | [3548-find-the-count-of-good-integers](https://github.com/nithya7089/DSA-Problems/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nithya7089/DSA-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/nithya7089/DSA-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/nithya7089/DSA-Problems/tree/master/3637-count-number-of-balanced-permutations) |
 ## Array
 |  |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3455-minimum-length-of-string-after-operations](https://github.com/nithya7089/DSA-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3548-find-the-count-of-good-integers](https://github.com/nithya7089/DSA-Problems/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/nithya7089/DSA-Problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/nithya7089/DSA-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Tree
 |  |
 | ------- |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2554-minimum-total-distance-traveled](https://github.com/nithya7089/DSA-Problems/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/nithya7089/DSA-Problems/tree/master/2562-count-ways-to-build-good-strings) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/nithya7089/DSA-Problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/nithya7089/DSA-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/nithya7089/DSA-Problems/tree/master/3637-count-number-of-balanced-permutations) |
 ## Matrix
 |  |
@@ -386,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2300-construct-string-with-repeat-limit](https://github.com/nithya7089/DSA-Problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nithya7089/DSA-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/nithya7089/DSA-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/nithya7089/DSA-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Ordered Set
 |  |
 | ------- |
