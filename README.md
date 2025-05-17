@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/nithya7089/DSA-Problems/tree/master/0075-sort-colors) |
 | [0768-partition-labels](https://github.com/nithya7089/DSA-Problems/tree/master/0768-partition-labels) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nithya7089/DSA-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nithya7089/DSA-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nithya7089/DSA-Problems/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/nithya7089/DSA-Problems/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/nithya7089/DSA-Problems/tree/master/0368-largest-divisible-subset) |
 | [0494-target-sum](https://github.com/nithya7089/DSA-Problems/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/nithya7089/DSA-Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/nithya7089/DSA-Problems/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/nithya7089/DSA-Problems/tree/master/0368-largest-divisible-subset) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nithya7089/DSA-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/nithya7089/DSA-Problems/tree/master/2164-two-best-non-overlapping-events) |
