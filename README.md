@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nithya7089/DSA-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/nithya7089/DSA-Problems/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/nithya7089/DSA-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/nithya7089/DSA-Problems/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/nithya7089/DSA-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nithya7089/DSA-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/nithya7089/DSA-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/nithya7089/DSA-Problems/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/nithya7089/DSA-Problems/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/nithya7089/DSA-Problems/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/nithya7089/DSA-Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
