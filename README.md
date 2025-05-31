@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/nithya7089/DSA-Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0787-sliding-puzzle](https://github.com/nithya7089/DSA-Problems/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/nithya7089/DSA-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0945-snakes-and-ladders](https://github.com/nithya7089/DSA-Problems/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/nithya7089/DSA-Problems/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/nithya7089/DSA-Problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/nithya7089/DSA-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nithya7089/DSA-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/nithya7089/DSA-Problems/tree/master/0787-sliding-puzzle) |
+| [0945-snakes-and-ladders](https://github.com/nithya7089/DSA-Problems/tree/master/0945-snakes-and-ladders) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/nithya7089/DSA-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/nithya7089/DSA-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/nithya7089/DSA-Problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/nithya7089/DSA-Problems/tree/master/0787-sliding-puzzle) |
+| [0945-snakes-and-ladders](https://github.com/nithya7089/DSA-Problems/tree/master/0945-snakes-and-ladders) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/nithya7089/DSA-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nithya7089/DSA-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1972-rotating-the-box](https://github.com/nithya7089/DSA-Problems/tree/master/1972-rotating-the-box) |
