@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/nithya7089/DSA-Problems/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/nithya7089/DSA-Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3201-distribute-candies-among-children-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/nithya7089/DSA-Problems/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/nithya7089/DSA-Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/nithya7089/DSA-Problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/nithya7089/DSA-Problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nithya7089/DSA-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2915-count-of-interesting-subarrays](https://github.com/nithya7089/DSA-Problems/tree/master/2915-count-of-interesting-subarrays) |
 | [3427-special-array-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3427-special-array-ii) |
 | [3639-zero-array-transformation-i](https://github.com/nithya7089/DSA-Problems/tree/master/3639-zero-array-transformation-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
