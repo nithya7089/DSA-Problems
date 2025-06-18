@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/nithya7089/DSA-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/nithya7089/DSA-Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/nithya7089/DSA-Problems/tree/master/3195-separate-black-and-white-balls) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/nithya7089/DSA-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nithya7089/DSA-Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Heap (Priority Queue)
 |  |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/nithya7089/DSA-Problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3194-find-words-containing-character](https://github.com/nithya7089/DSA-Problems/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/nithya7089/DSA-Problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/nithya7089/DSA-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nithya7089/DSA-Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/nithya7089/DSA-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3427-special-array-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3427-special-array-ii) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/nithya7089/DSA-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/nithya7089/DSA-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/nithya7089/DSA-Problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/nithya7089/DSA-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nithya7089/DSA-Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Binary Search
 |  |
