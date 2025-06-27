@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nithya7089/DSA-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/nithya7089/DSA-Problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nithya7089/DSA-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/nithya7089/DSA-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/nithya7089/DSA-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/nithya7089/DSA-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nithya7089/DSA-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1304-longest-happy-string](https://github.com/nithya7089/DSA-Problems/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/nithya7089/DSA-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/nithya7089/DSA-Problems/tree/master/1917-maximum-average-pass-ratio) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/nithya7089/DSA-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nithya7089/DSA-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/nithya7089/DSA-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nithya7089/DSA-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/nithya7089/DSA-Problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/nithya7089/DSA-Problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nithya7089/DSA-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/nithya7089/DSA-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nithya7089/DSA-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nithya7089/DSA-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Bit Manipulation
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nithya7089/DSA-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/nithya7089/DSA-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nithya7089/DSA-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/nithya7089/DSA-Problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3201-distribute-candies-among-children-ii) |
@@ -468,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1227-number-of-equivalent-domino-pairs](https://github.com/nithya7089/DSA-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1502-construct-k-palindrome-strings](https://github.com/nithya7089/DSA-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nithya7089/DSA-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/nithya7089/DSA-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nithya7089/DSA-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/nithya7089/DSA-Problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nithya7089/DSA-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
