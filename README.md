@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0010-regular-expression-matching](https://github.com/nithya7089/DSA-Problems/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/nithya7089/DSA-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/nithya7089/DSA-Problems/tree/master/0038-count-and-say) |
+| [0076-minimum-window-substring](https://github.com/nithya7089/DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0516-longest-palindromic-subsequence](https://github.com/nithya7089/DSA-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0768-partition-labels](https://github.com/nithya7089/DSA-Problems/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/nithya7089/DSA-Problems/tree/master/0952-word-subsets) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/nithya7089/DSA-Problems/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/nithya7089/DSA-Problems/tree/master/0037-sudoku-solver) |
+| [0076-minimum-window-substring](https://github.com/nithya7089/DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0768-partition-labels](https://github.com/nithya7089/DSA-Problems/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/nithya7089/DSA-Problems/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/nithya7089/DSA-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/nithya7089/DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/nithya7089/DSA-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/nithya7089/DSA-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/nithya7089/DSA-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
