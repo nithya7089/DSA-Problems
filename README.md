@@ -544,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/nithya7089/DSA-Problems/tree/master/0010-regular-expression-matching) |
+| [0025-reverse-nodes-in-k-group](https://github.com/nithya7089/DSA-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [2050-count-good-numbers](https://github.com/nithya7089/DSA-Problems/tree/master/2050-count-good-numbers) |
 ## Divide and Conquer
 |  |
@@ -569,4 +570,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nithya7089/DSA-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/nithya7089/DSA-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
