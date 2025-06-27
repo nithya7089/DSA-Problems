@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/nithya7089/DSA-Problems/tree/master/0010-regular-expression-matching) |
 | [0038-count-and-say](https://github.com/nithya7089/DSA-Problems/tree/master/0038-count-and-say) |
 | [0516-longest-palindromic-subsequence](https://github.com/nithya7089/DSA-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0768-partition-labels](https://github.com/nithya7089/DSA-Problems/tree/master/0768-partition-labels) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/nithya7089/DSA-Problems/tree/master/0010-regular-expression-matching) |
 | [0368-largest-divisible-subset](https://github.com/nithya7089/DSA-Problems/tree/master/0368-largest-divisible-subset) |
 | [0494-target-sum](https://github.com/nithya7089/DSA-Problems/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/nithya7089/DSA-Problems/tree/master/0516-longest-palindromic-subsequence) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/nithya7089/DSA-Problems/tree/master/0010-regular-expression-matching) |
 | [2050-count-good-numbers](https://github.com/nithya7089/DSA-Problems/tree/master/2050-count-good-numbers) |
 ## Divide and Conquer
 |  |
