@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/nithya7089/DSA-Problems/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/nithya7089/DSA-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/nithya7089/DSA-Problems/tree/master/0038-count-and-say) |
 | [0516-longest-palindromic-subsequence](https://github.com/nithya7089/DSA-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0768-partition-labels](https://github.com/nithya7089/DSA-Problems/tree/master/0768-partition-labels) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/nithya7089/DSA-Problems/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/nithya7089/DSA-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/nithya7089/DSA-Problems/tree/master/0368-largest-divisible-subset) |
 | [0494-target-sum](https://github.com/nithya7089/DSA-Problems/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/nithya7089/DSA-Problems/tree/master/0516-longest-palindromic-subsequence) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/nithya7089/DSA-Problems/tree/master/0032-longest-valid-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nithya7089/DSA-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/nithya7089/DSA-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nithya7089/DSA-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
