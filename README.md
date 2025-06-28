@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0124-binary-tree-maximum-path-sum](https://github.com/nithya7089/DSA-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nithya7089/DSA-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nithya7089/DSA-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1008-binary-tree-cameras](https://github.com/nithya7089/DSA-Problems/tree/master/1008-binary-tree-cameras) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/nithya7089/DSA-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/nithya7089/DSA-Problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/nithya7089/DSA-Problems/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nithya7089/DSA-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/nithya7089/DSA-Problems/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nithya7089/DSA-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1008-binary-tree-cameras](https://github.com/nithya7089/DSA-Problems/tree/master/1008-binary-tree-cameras) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/nithya7089/DSA-Problems/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/nithya7089/DSA-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/nithya7089/DSA-Problems/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0124-binary-tree-maximum-path-sum](https://github.com/nithya7089/DSA-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nithya7089/DSA-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nithya7089/DSA-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1008-binary-tree-cameras](https://github.com/nithya7089/DSA-Problems/tree/master/1008-binary-tree-cameras) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/nithya7089/DSA-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/nithya7089/DSA-Problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/nithya7089/DSA-Problems/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0494-target-sum](https://github.com/nithya7089/DSA-Problems/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/nithya7089/DSA-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/nithya7089/DSA-Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1008-binary-tree-cameras](https://github.com/nithya7089/DSA-Problems/tree/master/1008-binary-tree-cameras) |
 | [1025-minimum-cost-for-tickets](https://github.com/nithya7089/DSA-Problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/nithya7089/DSA-Problems/tree/master/1063-best-sightseeing-pair) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nithya7089/DSA-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
