@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2465-shifting-letters-ii](https://github.com/nithya7089/DSA-Problems/tree/master/2465-shifting-letters-ii) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/nithya7089/DSA-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/nithya7089/DSA-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/nithya7089/DSA-Problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nithya7089/DSA-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/nithya7089/DSA-Problems/tree/master/2554-minimum-total-distance-traveled) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/nithya7089/DSA-Problems/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1008-binary-tree-cameras](https://github.com/nithya7089/DSA-Problems/tree/master/1008-binary-tree-cameras) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/nithya7089/DSA-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/nithya7089/DSA-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/nithya7089/DSA-Problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/nithya7089/DSA-Problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/nithya7089/DSA-Problems/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/nithya7089/DSA-Problems/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/nithya7089/DSA-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/nithya7089/DSA-Problems/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/nithya7089/DSA-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/nithya7089/DSA-Problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/nithya7089/DSA-Problems/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/nithya7089/DSA-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/nithya7089/DSA-Problems/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/nithya7089/DSA-Problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/nithya7089/DSA-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/nithya7089/DSA-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/nithya7089/DSA-Problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/nithya7089/DSA-Problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/nithya7089/DSA-Problems/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/nithya7089/DSA-Problems/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -342,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1008-binary-tree-cameras](https://github.com/nithya7089/DSA-Problems/tree/master/1008-binary-tree-cameras) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/nithya7089/DSA-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/nithya7089/DSA-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/nithya7089/DSA-Problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/nithya7089/DSA-Problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/nithya7089/DSA-Problems/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Dynamic Programming
