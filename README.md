@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1502-construct-k-palindrome-strings](https://github.com/nithya7089/DSA-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nithya7089/DSA-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nithya7089/DSA-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2060-merge-bsts-to-create-single-bst](https://github.com/nithya7089/DSA-Problems/tree/master/2060-merge-bsts-to-create-single-bst) |
 | [2215-finding-3-digit-even-numbers](https://github.com/nithya7089/DSA-Problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nithya7089/DSA-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/nithya7089/DSA-Problems/tree/master/2300-construct-string-with-repeat-limit) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nithya7089/DSA-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1008-binary-tree-cameras](https://github.com/nithya7089/DSA-Problems/tree/master/1008-binary-tree-cameras) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/nithya7089/DSA-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [2060-merge-bsts-to-create-single-bst](https://github.com/nithya7089/DSA-Problems/tree/master/2060-merge-bsts-to-create-single-bst) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/nithya7089/DSA-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/nithya7089/DSA-Problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/nithya7089/DSA-Problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nithya7089/DSA-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1008-binary-tree-cameras](https://github.com/nithya7089/DSA-Problems/tree/master/1008-binary-tree-cameras) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/nithya7089/DSA-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [2060-merge-bsts-to-create-single-bst](https://github.com/nithya7089/DSA-Problems/tree/master/2060-merge-bsts-to-create-single-bst) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/nithya7089/DSA-Problems/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/nithya7089/DSA-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/nithya7089/DSA-Problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nithya7089/DSA-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1008-binary-tree-cameras](https://github.com/nithya7089/DSA-Problems/tree/master/1008-binary-tree-cameras) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/nithya7089/DSA-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [2060-merge-bsts-to-create-single-bst](https://github.com/nithya7089/DSA-Problems/tree/master/2060-merge-bsts-to-create-single-bst) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/nithya7089/DSA-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/nithya7089/DSA-Problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/nithya7089/DSA-Problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -420,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/nithya7089/DSA-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nithya7089/DSA-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/nithya7089/DSA-Problems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2060-merge-bsts-to-create-single-bst](https://github.com/nithya7089/DSA-Problems/tree/master/2060-merge-bsts-to-create-single-bst) |
 | [2164-two-best-non-overlapping-events](https://github.com/nithya7089/DSA-Problems/tree/master/2164-two-best-non-overlapping-events) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nithya7089/DSA-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/nithya7089/DSA-Problems/tree/master/2280-count-good-triplets-in-an-array) |
