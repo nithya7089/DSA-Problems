@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/nithya7089/DSA-Problems/tree/master/0007-reverse-integer) |
+| [0149-max-points-on-a-line](https://github.com/nithya7089/DSA-Problems/tree/master/0149-max-points-on-a-line) |
 | [0368-largest-divisible-subset](https://github.com/nithya7089/DSA-Problems/tree/master/0368-largest-divisible-subset) |
 | [0670-maximum-swap](https://github.com/nithya7089/DSA-Problems/tree/master/0670-maximum-swap) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nithya7089/DSA-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/nithya7089/DSA-Problems/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nithya7089/DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0140-word-break-ii](https://github.com/nithya7089/DSA-Problems/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/nithya7089/DSA-Problems/tree/master/0149-max-points-on-a-line) |
 | [0368-largest-divisible-subset](https://github.com/nithya7089/DSA-Problems/tree/master/0368-largest-divisible-subset) |
 | [0494-target-sum](https://github.com/nithya7089/DSA-Problems/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/nithya7089/DSA-Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/nithya7089/DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/nithya7089/DSA-Problems/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/nithya7089/DSA-Problems/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/nithya7089/DSA-Problems/tree/master/0149-max-points-on-a-line) |
 | [0768-partition-labels](https://github.com/nithya7089/DSA-Problems/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/nithya7089/DSA-Problems/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/nithya7089/DSA-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -636,4 +639,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nithya7089/DSA-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/nithya7089/DSA-Problems/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
