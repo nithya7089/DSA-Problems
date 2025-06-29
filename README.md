@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0115-distinct-subsequences](https://github.com/nithya7089/DSA-Problems/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/nithya7089/DSA-Problems/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/nithya7089/DSA-Problems/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/nithya7089/DSA-Problems/tree/master/0212-word-search-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nithya7089/DSA-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/nithya7089/DSA-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0768-partition-labels](https://github.com/nithya7089/DSA-Problems/tree/master/0768-partition-labels) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0140-word-break-ii](https://github.com/nithya7089/DSA-Problems/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/nithya7089/DSA-Problems/tree/master/0149-max-points-on-a-line) |
 | [0174-dungeon-game](https://github.com/nithya7089/DSA-Problems/tree/master/0174-dungeon-game) |
+| [0212-word-search-ii](https://github.com/nithya7089/DSA-Problems/tree/master/0212-word-search-ii) |
 | [0368-largest-divisible-subset](https://github.com/nithya7089/DSA-Problems/tree/master/0368-largest-divisible-subset) |
 | [0494-target-sum](https://github.com/nithya7089/DSA-Problems/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/nithya7089/DSA-Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0037-sudoku-solver](https://github.com/nithya7089/DSA-Problems/tree/master/0037-sudoku-solver) |
 | [0140-word-break-ii](https://github.com/nithya7089/DSA-Problems/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/nithya7089/DSA-Problems/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/nithya7089/DSA-Problems/tree/master/0494-target-sum) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/nithya7089/DSA-Problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/nithya7089/DSA-Problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0037-sudoku-solver](https://github.com/nithya7089/DSA-Problems/tree/master/0037-sudoku-solver) |
 | [0174-dungeon-game](https://github.com/nithya7089/DSA-Problems/tree/master/0174-dungeon-game) |
+| [0212-word-search-ii](https://github.com/nithya7089/DSA-Problems/tree/master/0212-word-search-ii) |
 | [0787-sliding-puzzle](https://github.com/nithya7089/DSA-Problems/tree/master/0787-sliding-puzzle) |
 | [0945-snakes-and-ladders](https://github.com/nithya7089/DSA-Problems/tree/master/0945-snakes-and-ladders) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/nithya7089/DSA-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -581,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/nithya7089/DSA-Problems/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/nithya7089/DSA-Problems/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/nithya7089/DSA-Problems/tree/master/0386-lexicographical-numbers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/nithya7089/DSA-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
