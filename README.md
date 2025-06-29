@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/nithya7089/DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/nithya7089/DSA-Problems/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/nithya7089/DSA-Problems/tree/master/0127-word-ladder) |
+| [0140-word-break-ii](https://github.com/nithya7089/DSA-Problems/tree/master/0140-word-break-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nithya7089/DSA-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/nithya7089/DSA-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0768-partition-labels](https://github.com/nithya7089/DSA-Problems/tree/master/0768-partition-labels) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/nithya7089/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/nithya7089/DSA-Problems/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nithya7089/DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0140-word-break-ii](https://github.com/nithya7089/DSA-Problems/tree/master/0140-word-break-ii) |
 | [0368-largest-divisible-subset](https://github.com/nithya7089/DSA-Problems/tree/master/0368-largest-divisible-subset) |
 | [0494-target-sum](https://github.com/nithya7089/DSA-Problems/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/nithya7089/DSA-Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/nithya7089/DSA-Problems/tree/master/0037-sudoku-solver) |
+| [0140-word-break-ii](https://github.com/nithya7089/DSA-Problems/tree/master/0140-word-break-ii) |
 | [0494-target-sum](https://github.com/nithya7089/DSA-Problems/tree/master/0494-target-sum) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/nithya7089/DSA-Problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/nithya7089/DSA-Problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0037-sudoku-solver](https://github.com/nithya7089/DSA-Problems/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/nithya7089/DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/nithya7089/DSA-Problems/tree/master/0127-word-ladder) |
+| [0140-word-break-ii](https://github.com/nithya7089/DSA-Problems/tree/master/0140-word-break-ii) |
 | [0768-partition-labels](https://github.com/nithya7089/DSA-Problems/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/nithya7089/DSA-Problems/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/nithya7089/DSA-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -366,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/nithya7089/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/nithya7089/DSA-Problems/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nithya7089/DSA-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0140-word-break-ii](https://github.com/nithya7089/DSA-Problems/tree/master/0140-word-break-ii) |
 | [0368-largest-divisible-subset](https://github.com/nithya7089/DSA-Problems/tree/master/0368-largest-divisible-subset) |
 | [0494-target-sum](https://github.com/nithya7089/DSA-Problems/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/nithya7089/DSA-Problems/tree/master/0516-longest-palindromic-subsequence) |
@@ -569,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Trie
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/nithya7089/DSA-Problems/tree/master/0140-word-break-ii) |
 | [0386-lexicographical-numbers](https://github.com/nithya7089/DSA-Problems/tree/master/0386-lexicographical-numbers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/nithya7089/DSA-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
@@ -618,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Memoization
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/nithya7089/DSA-Problems/tree/master/0140-word-break-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nithya7089/DSA-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nithya7089/DSA-Problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Linked List
