@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/nithya7089/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/nithya7089/DSA-Problems/tree/master/0075-sort-colors) |
 | [0295-find-median-from-data-stream](https://github.com/nithya7089/DSA-Problems/tree/master/0295-find-median-from-data-stream) |
+| [0321-create-maximum-number](https://github.com/nithya7089/DSA-Problems/tree/master/0321-create-maximum-number) |
 | [0768-partition-labels](https://github.com/nithya7089/DSA-Problems/tree/master/0768-partition-labels) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nithya7089/DSA-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nithya7089/DSA-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/nithya7089/DSA-Problems/tree/master/0321-create-maximum-number) |
 | [0670-maximum-swap](https://github.com/nithya7089/DSA-Problems/tree/master/0670-maximum-swap) |
 | [0768-partition-labels](https://github.com/nithya7089/DSA-Problems/tree/master/0768-partition-labels) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/nithya7089/DSA-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0218-the-skyline-problem](https://github.com/nithya7089/DSA-Problems/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/nithya7089/DSA-Problems/tree/master/0220-contains-duplicate-iii) |
 | [0312-burst-balloons](https://github.com/nithya7089/DSA-Problems/tree/master/0312-burst-balloons) |
+| [0321-create-maximum-number](https://github.com/nithya7089/DSA-Problems/tree/master/0321-create-maximum-number) |
 | [0368-largest-divisible-subset](https://github.com/nithya7089/DSA-Problems/tree/master/0368-largest-divisible-subset) |
 | [0494-target-sum](https://github.com/nithya7089/DSA-Problems/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/nithya7089/DSA-Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -575,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0032-longest-valid-parentheses](https://github.com/nithya7089/DSA-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nithya7089/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nithya7089/DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0321-create-maximum-number](https://github.com/nithya7089/DSA-Problems/tree/master/0321-create-maximum-number) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nithya7089/DSA-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/nithya7089/DSA-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nithya7089/DSA-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -584,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nithya7089/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nithya7089/DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0321-create-maximum-number](https://github.com/nithya7089/DSA-Problems/tree/master/0321-create-maximum-number) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nithya7089/DSA-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/nithya7089/DSA-Problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Binary Indexed Tree
