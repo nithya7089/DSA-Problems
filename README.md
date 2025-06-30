@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/nithya7089/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/nithya7089/DSA-Problems/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nithya7089/DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/nithya7089/DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [0140-word-break-ii](https://github.com/nithya7089/DSA-Problems/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/nithya7089/DSA-Problems/tree/master/0149-max-points-on-a-line) |
 | [0174-dungeon-game](https://github.com/nithya7089/DSA-Problems/tree/master/0174-dungeon-game) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0010-regular-expression-matching](https://github.com/nithya7089/DSA-Problems/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/nithya7089/DSA-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nithya7089/DSA-Problems/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/nithya7089/DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/nithya7089/DSA-Problems/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nithya7089/DSA-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0140-word-break-ii](https://github.com/nithya7089/DSA-Problems/tree/master/0140-word-break-ii) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/nithya7089/DSA-Problems/tree/master/0037-sudoku-solver) |
+| [0085-maximal-rectangle](https://github.com/nithya7089/DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/nithya7089/DSA-Problems/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/nithya7089/DSA-Problems/tree/master/0212-word-search-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nithya7089/DSA-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -591,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0032-longest-valid-parentheses](https://github.com/nithya7089/DSA-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nithya7089/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nithya7089/DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/nithya7089/DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [0321-create-maximum-number](https://github.com/nithya7089/DSA-Problems/tree/master/0321-create-maximum-number) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nithya7089/DSA-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/nithya7089/DSA-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -601,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nithya7089/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nithya7089/DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/nithya7089/DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [0321-create-maximum-number](https://github.com/nithya7089/DSA-Problems/tree/master/0321-create-maximum-number) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nithya7089/DSA-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/nithya7089/DSA-Problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
