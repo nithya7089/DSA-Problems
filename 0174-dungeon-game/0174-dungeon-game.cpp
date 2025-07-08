@@ -1,43 +1,19 @@
 class Solution {
 public:
-    int solve(int i, int j, const vector<vector<int>>& dungeon, vector<vector<int>>& dp) {
-        int m = dungeon.size();
-        int n = dungeon[0].size();
-
-        // Base case: Bottom-right cell (princess's room)
-        if (i == m - 1 && j == n - 1) {
-            return max(1, 1 - dungeon[i][j]);
+    int calculateMinimumHP(vector<vector<int>>& d) {
+        int r = d.size() -1;
+        int c = d[0].size() - 1;
+        d[r][c] = 1 - min(0,d[r][c]);
+        for(int i = r;i>=0;i--){
+            for(int j = c;j>=0;j--){
+                if(i==r && j==c) continue;
+                int next = 400000001;
+                if(i!=r) next = min(next,d[i+1][j]);
+                if(j!=c) next = min(next,d[i][j+1]);
+                d[i][j] = max(1,next-d[i][j]);
+            }
         }
 
-        // If out of bounds
-        if (i >= m || j >= n) {
-            return INT_MAX;
-        }
-
-        // If the value is already calculated
-        if (dp[i][j] != -1) {
-            return dp[i][j];
-        }
-
-        // Recursive calculation for the minimum health needed
-        int right = solve(i, j + 1, dungeon, dp);
-        int down = solve(i + 1, j, dungeon, dp);
-
-        // The knight needs at least 1 health point to survive
-        int min_health = min(right, down) - dungeon[i][j];
-        dp[i][j] = max(1, min_health);
-
-        return dp[i][j];
-    }
-
-    int calculateMinimumHP(vector<vector<int>>& dungeon) {
-        int m = dungeon.size();
-        int n = dungeon[0].size();
-
-        // Create a memoization table initialized with -1
-        vector<vector<int>> dp(m, vector<int>(n, -1));
-
-        // Start from the top-left cell
-        return solve(0, 0, dungeon, dp);
+        return d[0][0];
     }
 };
