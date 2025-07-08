@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nithya7089/DSA-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0218-the-skyline-problem](https://github.com/nithya7089/DSA-Problems/tree/master/0218-the-skyline-problem) |
+| [0239-sliding-window-maximum](https://github.com/nithya7089/DSA-Problems/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/nithya7089/DSA-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/nithya7089/DSA-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/nithya7089/DSA-Problems/tree/master/1304-longest-happy-string) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0212-word-search-ii](https://github.com/nithya7089/DSA-Problems/tree/master/0212-word-search-ii) |
 | [0218-the-skyline-problem](https://github.com/nithya7089/DSA-Problems/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/nithya7089/DSA-Problems/tree/master/0220-contains-duplicate-iii) |
+| [0239-sliding-window-maximum](https://github.com/nithya7089/DSA-Problems/tree/master/0239-sliding-window-maximum) |
 | [0312-burst-balloons](https://github.com/nithya7089/DSA-Problems/tree/master/0312-burst-balloons) |
 | [0321-create-maximum-number](https://github.com/nithya7089/DSA-Problems/tree/master/0321-create-maximum-number) |
 | [0327-count-of-range-sum](https://github.com/nithya7089/DSA-Problems/tree/master/0327-count-of-range-sum) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/nithya7089/DSA-Problems/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/nithya7089/DSA-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nithya7089/DSA-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/nithya7089/DSA-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -517,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0076-minimum-window-substring](https://github.com/nithya7089/DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0220-contains-duplicate-iii](https://github.com/nithya7089/DSA-Problems/tree/master/0220-contains-duplicate-iii) |
+| [0239-sliding-window-maximum](https://github.com/nithya7089/DSA-Problems/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/nithya7089/DSA-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/nithya7089/DSA-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/nithya7089/DSA-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -548,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/nithya7089/DSA-Problems/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/nithya7089/DSA-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nithya7089/DSA-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/nithya7089/DSA-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
