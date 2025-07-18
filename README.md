@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/nithya7089/DSA-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/nithya7089/DSA-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/nithya7089/DSA-Problems/tree/master/2164-two-best-non-overlapping-events) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/nithya7089/DSA-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2300-construct-string-with-repeat-limit](https://github.com/nithya7089/DSA-Problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/nithya7089/DSA-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2479-meeting-rooms-iii](https://github.com/nithya7089/DSA-Problems/tree/master/2479-meeting-rooms-iii) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nithya7089/DSA-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2249-count-the-hidden-sequences](https://github.com/nithya7089/DSA-Problems/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/nithya7089/DSA-Problems/tree/master/2262-solving-questions-with-brainpower) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/nithya7089/DSA-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/nithya7089/DSA-Problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/nithya7089/DSA-Problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/nithya7089/DSA-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/nithya7089/DSA-Problems/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2164-two-best-non-overlapping-events](https://github.com/nithya7089/DSA-Problems/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/nithya7089/DSA-Problems/tree/master/2262-solving-questions-with-brainpower) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/nithya7089/DSA-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nithya7089/DSA-Problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/nithya7089/DSA-Problems/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/nithya7089/DSA-Problems/tree/master/2562-count-ways-to-build-good-strings) |
