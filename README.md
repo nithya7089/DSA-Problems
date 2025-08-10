@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0368-largest-divisible-subset](https://github.com/nithya7089/DSA-Problems/tree/master/0368-largest-divisible-subset) |
 | [0670-maximum-swap](https://github.com/nithya7089/DSA-Problems/tree/master/0670-maximum-swap) |
 | [0826-soup-servings](https://github.com/nithya7089/DSA-Problems/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/nithya7089/DSA-Problems/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nithya7089/DSA-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nithya7089/DSA-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nithya7089/DSA-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/nithya7089/DSA-Problems/tree/master/0900-reordered-power-of-2) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nithya7089/DSA-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/nithya7089/DSA-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nithya7089/DSA-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0140-word-break-ii](https://github.com/nithya7089/DSA-Problems/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/nithya7089/DSA-Problems/tree/master/0149-max-points-on-a-line) |
 | [0768-partition-labels](https://github.com/nithya7089/DSA-Problems/tree/master/0768-partition-labels) |
+| [0900-reordered-power-of-2](https://github.com/nithya7089/DSA-Problems/tree/master/0900-reordered-power-of-2) |
 | [0952-word-subsets](https://github.com/nithya7089/DSA-Problems/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/nithya7089/DSA-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/nithya7089/DSA-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0220-contains-duplicate-iii](https://github.com/nithya7089/DSA-Problems/tree/master/0220-contains-duplicate-iii) |
 | [0295-find-median-from-data-stream](https://github.com/nithya7089/DSA-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0368-largest-divisible-subset](https://github.com/nithya7089/DSA-Problems/tree/master/0368-largest-divisible-subset) |
+| [0900-reordered-power-of-2](https://github.com/nithya7089/DSA-Problems/tree/master/0900-reordered-power-of-2) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nithya7089/DSA-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/nithya7089/DSA-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/nithya7089/DSA-Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -649,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/nithya7089/DSA-Problems/tree/master/0900-reordered-power-of-2) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/nithya7089/DSA-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1502-construct-k-palindrome-strings](https://github.com/nithya7089/DSA-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/nithya7089/DSA-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
