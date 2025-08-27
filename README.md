@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/nithya7089/DSA-Problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3639-zero-array-transformation-i](https://github.com/nithya7089/DSA-Problems/tree/master/3639-zero-array-transformation-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/nithya7089/DSA-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/nithya7089/DSA-Problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/nithya7089/DSA-Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/nithya7089/DSA-Problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/nithya7089/DSA-Problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nithya7089/DSA-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/nithya7089/DSA-Problems/tree/master/3637-count-number-of-balanced-permutations) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/nithya7089/DSA-Problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Matrix
 |  |
 | ------- |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/nithya7089/DSA-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/nithya7089/DSA-Problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/nithya7089/DSA-Problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Sorting
 |  |
 | ------- |
@@ -787,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nithya7089/DSA-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/nithya7089/DSA-Problems/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nithya7089/DSA-Problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/nithya7089/DSA-Problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Linked List
 |  |
 | ------- |
