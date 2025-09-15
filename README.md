@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0768-partition-labels](https://github.com/nithya7089/DSA-Problems/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/nithya7089/DSA-Problems/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/nithya7089/DSA-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/nithya7089/DSA-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1304-longest-happy-string](https://github.com/nithya7089/DSA-Problems/tree/master/1304-longest-happy-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nithya7089/DSA-Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1502-construct-k-palindrome-strings](https://github.com/nithya7089/DSA-Problems/tree/master/1502-construct-k-palindrome-strings) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0952-word-subsets](https://github.com/nithya7089/DSA-Problems/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/nithya7089/DSA-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/nithya7089/DSA-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/nithya7089/DSA-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nithya7089/DSA-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/nithya7089/DSA-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/nithya7089/DSA-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
