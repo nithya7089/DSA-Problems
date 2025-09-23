@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nithya7089/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/nithya7089/DSA-Problems/tree/master/0075-sort-colors) |
+| [0165-compare-version-numbers](https://github.com/nithya7089/DSA-Problems/tree/master/0165-compare-version-numbers) |
 | [0295-find-median-from-data-stream](https://github.com/nithya7089/DSA-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0321-create-maximum-number](https://github.com/nithya7089/DSA-Problems/tree/master/0321-create-maximum-number) |
 | [0768-partition-labels](https://github.com/nithya7089/DSA-Problems/tree/master/0768-partition-labels) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0115-distinct-subsequences](https://github.com/nithya7089/DSA-Problems/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/nithya7089/DSA-Problems/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/nithya7089/DSA-Problems/tree/master/0140-word-break-ii) |
+| [0165-compare-version-numbers](https://github.com/nithya7089/DSA-Problems/tree/master/0165-compare-version-numbers) |
 | [0212-word-search-ii](https://github.com/nithya7089/DSA-Problems/tree/master/0212-word-search-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nithya7089/DSA-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/nithya7089/DSA-Problems/tree/master/0301-remove-invalid-parentheses) |
