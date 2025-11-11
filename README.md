@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0010-regular-expression-matching](https://github.com/nithya7089/DSA-Problems/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/nithya7089/DSA-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/nithya7089/DSA-Problems/tree/master/0038-count-and-say) |
+| [0065-valid-number](https://github.com/nithya7089/DSA-Problems/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/nithya7089/DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/nithya7089/DSA-Problems/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/nithya7089/DSA-Problems/tree/master/0127-word-ladder) |
