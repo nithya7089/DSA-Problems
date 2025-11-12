@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nithya7089/DSA-Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/nithya7089/DSA-Problems/tree/master/0007-reverse-integer) |
 | [0149-max-points-on-a-line](https://github.com/nithya7089/DSA-Problems/tree/master/0149-max-points-on-a-line) |
 | [0231-power-of-two](https://github.com/nithya7089/DSA-Problems/tree/master/0231-power-of-two) |
@@ -783,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nithya7089/DSA-Problems/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/nithya7089/DSA-Problems/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/nithya7089/DSA-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0231-power-of-two](https://github.com/nithya7089/DSA-Problems/tree/master/0231-power-of-two) |
@@ -820,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nithya7089/DSA-Problems/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/nithya7089/DSA-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/nithya7089/DSA-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nithya7089/DSA-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
