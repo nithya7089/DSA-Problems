@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/nithya7089/DSA-Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/nithya7089/DSA-Problems/tree/master/0007-reverse-integer) |
+| [0096-unique-binary-search-trees](https://github.com/nithya7089/DSA-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/nithya7089/DSA-Problems/tree/master/0149-max-points-on-a-line) |
 | [0231-power-of-two](https://github.com/nithya7089/DSA-Problems/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/nithya7089/DSA-Problems/tree/master/0233-number-of-digit-one) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/nithya7089/DSA-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nithya7089/DSA-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nithya7089/DSA-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nithya7089/DSA-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/nithya7089/DSA-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nithya7089/DSA-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nithya7089/DSA-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nithya7089/DSA-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -478,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0032-longest-valid-parentheses](https://github.com/nithya7089/DSA-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nithya7089/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/nithya7089/DSA-Problems/tree/master/0085-maximal-rectangle) |
+| [0096-unique-binary-search-trees](https://github.com/nithya7089/DSA-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/nithya7089/DSA-Problems/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/nithya7089/DSA-Problems/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nithya7089/DSA-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -862,4 +866,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/nithya7089/DSA-Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/nithya7089/DSA-Problems/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
