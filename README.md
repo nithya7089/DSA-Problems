@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3548-find-the-count-of-good-integers](https://github.com/nithya7089/DSA-Problems/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nithya7089/DSA-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3623-count-number-of-trapezoids-i](https://github.com/nithya7089/DSA-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nithya7089/DSA-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/nithya7089/DSA-Problems/tree/master/3637-count-number-of-balanced-permutations) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nithya7089/DSA-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/nithya7089/DSA-Problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3623-count-number-of-trapezoids-i](https://github.com/nithya7089/DSA-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3639-zero-array-transformation-i](https://github.com/nithya7089/DSA-Problems/tree/master/3639-zero-array-transformation-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/nithya7089/DSA-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/nithya7089/DSA-Problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3548-find-the-count-of-good-integers](https://github.com/nithya7089/DSA-Problems/tree/master/3548-find-the-count-of-good-integers) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/nithya7089/DSA-Problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3623-count-number-of-trapezoids-i](https://github.com/nithya7089/DSA-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nithya7089/DSA-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Tree
@@ -847,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/nithya7089/DSA-Problems/tree/master/0149-max-points-on-a-line) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3623-count-number-of-trapezoids-i](https://github.com/nithya7089/DSA-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 ## Line Sweep
 |  |
 | ------- |
