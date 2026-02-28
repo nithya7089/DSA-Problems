@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0900-reordered-power-of-2](https://github.com/nithya7089/DSA-Problems/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nithya7089/DSA-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nithya7089/DSA-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/nithya7089/DSA-Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nithya7089/DSA-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/nithya7089/DSA-Problems/tree/master/2050-count-good-numbers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/nithya7089/DSA-Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0231-power-of-two](https://github.com/nithya7089/DSA-Problems/tree/master/0231-power-of-two) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/nithya7089/DSA-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/nithya7089/DSA-Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nithya7089/DSA-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nithya7089/DSA-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nithya7089/DSA-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -666,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/nithya7089/DSA-Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2048-build-array-from-permutation](https://github.com/nithya7089/DSA-Problems/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/nithya7089/DSA-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/nithya7089/DSA-Problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
