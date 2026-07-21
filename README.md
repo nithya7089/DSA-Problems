@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3396-valid-word](https://github.com/nithya7089/DSA-Problems/tree/master/3396-valid-word) |
 | [3451-string-compression-iii](https://github.com/nithya7089/DSA-Problems/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/nithya7089/DSA-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/nithya7089/DSA-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/nithya7089/DSA-Problems/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nithya7089/DSA-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3201-distribute-candies-among-children-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/nithya7089/DSA-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/nithya7089/DSA-Problems/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/nithya7089/DSA-Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
