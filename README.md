@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/nithya7089/DSA-Problems/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/nithya7089/DSA-Problems/tree/master/0233-number-of-digit-one) |
 | [0368-largest-divisible-subset](https://github.com/nithya7089/DSA-Problems/tree/master/0368-largest-divisible-subset) |
+| [0486-predict-the-winner](https://github.com/nithya7089/DSA-Problems/tree/master/0486-predict-the-winner) |
 | [0670-maximum-swap](https://github.com/nithya7089/DSA-Problems/tree/master/0670-maximum-swap) |
 | [0826-soup-servings](https://github.com/nithya7089/DSA-Problems/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/nithya7089/DSA-Problems/tree/master/0900-reordered-power-of-2) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nithya7089/DSA-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/nithya7089/DSA-Problems/tree/master/0330-patching-array) |
 | [0368-largest-divisible-subset](https://github.com/nithya7089/DSA-Problems/tree/master/0368-largest-divisible-subset) |
+| [0486-predict-the-winner](https://github.com/nithya7089/DSA-Problems/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/nithya7089/DSA-Problems/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/nithya7089/DSA-Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0759-set-intersection-size-at-least-two](https://github.com/nithya7089/DSA-Problems/tree/master/0759-set-intersection-size-at-least-two) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0312-burst-balloons](https://github.com/nithya7089/DSA-Problems/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nithya7089/DSA-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0368-largest-divisible-subset](https://github.com/nithya7089/DSA-Problems/tree/master/0368-largest-divisible-subset) |
+| [0486-predict-the-winner](https://github.com/nithya7089/DSA-Problems/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/nithya7089/DSA-Problems/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/nithya7089/DSA-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/nithya7089/DSA-Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -841,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0025-reverse-nodes-in-k-group](https://github.com/nithya7089/DSA-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0231-power-of-two](https://github.com/nithya7089/DSA-Problems/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/nithya7089/DSA-Problems/tree/master/0233-number-of-digit-one) |
+| [0486-predict-the-winner](https://github.com/nithya7089/DSA-Problems/tree/master/0486-predict-the-winner) |
 | [2050-count-good-numbers](https://github.com/nithya7089/DSA-Problems/tree/master/2050-count-good-numbers) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Divide and Conquer
@@ -920,4 +924,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/nithya7089/DSA-Problems/tree/master/0096-unique-binary-search-trees) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/nithya7089/DSA-Problems/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
