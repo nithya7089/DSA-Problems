@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3623-count-number-of-trapezoids-i](https://github.com/nithya7089/DSA-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3639-zero-array-transformation-i](https://github.com/nithya7089/DSA-Problems/tree/master/3639-zero-array-transformation-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/nithya7089/DSA-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3731-find-missing-elements](https://github.com/nithya7089/DSA-Problems/tree/master/3731-find-missing-elements) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/nithya7089/DSA-Problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/nithya7089/DSA-Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/nithya7089/DSA-Problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3623-count-number-of-trapezoids-i](https://github.com/nithya7089/DSA-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nithya7089/DSA-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3731-find-missing-elements](https://github.com/nithya7089/DSA-Problems/tree/master/3731-find-missing-elements) |
 ## Tree
 |  |
 | ------- |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nithya7089/DSA-Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/nithya7089/DSA-Problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3731-find-missing-elements](https://github.com/nithya7089/DSA-Problems/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
