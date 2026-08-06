@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/nithya7089/DSA-Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/nithya7089/DSA-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/nithya7089/DSA-Problems/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nithya7089/DSA-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2215-finding-3-digit-even-numbers](https://github.com/nithya7089/DSA-Problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/nithya7089/DSA-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nithya7089/DSA-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/nithya7089/DSA-Problems/tree/master/3548-find-the-count-of-good-integers) |
