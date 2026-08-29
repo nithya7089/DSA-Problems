@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2868-continuous-subarrays](https://github.com/nithya7089/DSA-Problems/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/nithya7089/DSA-Problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2915-count-of-interesting-subarrays](https://github.com/nithya7089/DSA-Problems/tree/master/2915-count-of-interesting-subarrays) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nithya7089/DSA-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nithya7089/DSA-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nithya7089/DSA-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/nithya7089/DSA-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/nithya7089/DSA-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/nithya7089/DSA-Problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nithya7089/DSA-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nithya7089/DSA-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/nithya7089/DSA-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -991,4 +993,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1510-stone-game-iv](https://github.com/nithya7089/DSA-Problems/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/nithya7089/DSA-Problems/tree/master/1872-stone-game-viii) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nithya7089/DSA-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
