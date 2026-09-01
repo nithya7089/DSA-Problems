@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/nithya7089/DSA-Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nithya7089/DSA-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/nithya7089/DSA-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/nithya7089/DSA-Problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/nithya7089/DSA-Problems/tree/master/3623-count-number-of-trapezoids-i) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nithya7089/DSA-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/nithya7089/DSA-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nithya7089/DSA-Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/nithya7089/DSA-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nithya7089/DSA-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Enumeration
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3455-minimum-length-of-string-after-operations](https://github.com/nithya7089/DSA-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/nithya7089/DSA-Problems/tree/master/3548-find-the-count-of-good-integers) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/nithya7089/DSA-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/nithya7089/DSA-Problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/nithya7089/DSA-Problems/tree/master/3623-count-number-of-trapezoids-i) |
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/nithya7089/DSA-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/nithya7089/DSA-Problems/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/nithya7089/DSA-Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/nithya7089/DSA-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/nithya7089/DSA-Problems/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
@@ -614,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/nithya7089/DSA-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/nithya7089/DSA-Problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/nithya7089/DSA-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/nithya7089/DSA-Problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Sorting
 |  |
