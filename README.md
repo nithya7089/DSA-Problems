@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nithya7089/DSA-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/nithya7089/DSA-Problems/tree/master/3637-count-number-of-balanced-permutations) |
+| [3870-count-commas-in-range](https://github.com/nithya7089/DSA-Problems/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nithya7089/DSA-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Array
