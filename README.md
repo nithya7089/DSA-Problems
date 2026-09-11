@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3427-special-array-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3427-special-array-ii) |
 | [3453-separate-squares-i](https://github.com/nithya7089/DSA-Problems/tree/master/3453-separate-squares-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/nithya7089/DSA-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/nithya7089/DSA-Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nithya7089/DSA-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/nithya7089/DSA-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nithya7089/DSA-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/nithya7089/DSA-Problems/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/nithya7089/DSA-Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nithya7089/DSA-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/nithya7089/DSA-Problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/nithya7089/DSA-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3483-unique-3-digit-even-numbers](https://github.com/nithya7089/DSA-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/nithya7089/DSA-Problems/tree/master/3548-find-the-count-of-good-integers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nithya7089/DSA-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -900,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0233-number-of-digit-one](https://github.com/nithya7089/DSA-Problems/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/nithya7089/DSA-Problems/tree/master/0486-predict-the-winner) |
 | [2050-count-good-numbers](https://github.com/nithya7089/DSA-Problems/tree/master/2050-count-good-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/nithya7089/DSA-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Divide and Conquer
 |  |
