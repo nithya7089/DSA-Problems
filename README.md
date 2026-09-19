@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0826-soup-servings](https://github.com/nithya7089/DSA-Problems/tree/master/0826-soup-servings) |
 | [0877-stone-game](https://github.com/nithya7089/DSA-Problems/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/nithya7089/DSA-Problems/tree/master/0900-reordered-power-of-2) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/nithya7089/DSA-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nithya7089/DSA-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nithya7089/DSA-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1510-stone-game-iv](https://github.com/nithya7089/DSA-Problems/tree/master/1510-stone-game-iv) |
@@ -960,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/nithya7089/DSA-Problems/tree/master/0149-max-points-on-a-line) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/nithya7089/DSA-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/nithya7089/DSA-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 ## Line Sweep
