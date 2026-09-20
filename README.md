@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3396-valid-word](https://github.com/nithya7089/DSA-Problems/tree/master/3396-valid-word) |
 | [3451-string-compression-iii](https://github.com/nithya7089/DSA-Problems/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/nithya7089/DSA-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3498-reverse-degree-of-a-string](https://github.com/nithya7089/DSA-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nithya7089/DSA-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -770,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2479-meeting-rooms-iii](https://github.com/nithya7089/DSA-Problems/tree/master/2479-meeting-rooms-iii) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/nithya7089/DSA-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/nithya7089/DSA-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3498-reverse-degree-of-a-string](https://github.com/nithya7089/DSA-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nithya7089/DSA-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Graph
