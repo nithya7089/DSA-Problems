@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0952-word-subsets](https://github.com/nithya7089/DSA-Problems/tree/master/0952-word-subsets) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nithya7089/DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/nithya7089/DSA-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nithya7089/DSA-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/nithya7089/DSA-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1304-longest-happy-string](https://github.com/nithya7089/DSA-Problems/tree/master/1304-longest-happy-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nithya7089/DSA-Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -848,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0085-maximal-rectangle](https://github.com/nithya7089/DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [0321-create-maximum-number](https://github.com/nithya7089/DSA-Problems/tree/master/0321-create-maximum-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nithya7089/DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nithya7089/DSA-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nithya7089/DSA-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nithya7089/DSA-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/nithya7089/DSA-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -1037,4 +1039,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nithya7089/DSA-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nithya7089/DSA-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
