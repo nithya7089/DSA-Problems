@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0678-valid-parenthesis-string](https://github.com/nithya7089/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/nithya7089/DSA-Problems/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/nithya7089/DSA-Problems/tree/master/0952-word-subsets) |
+| [1021-remove-outermost-parentheses](https://github.com/nithya7089/DSA-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nithya7089/DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/nithya7089/DSA-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nithya7089/DSA-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -858,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0085-maximal-rectangle](https://github.com/nithya7089/DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [0321-create-maximum-number](https://github.com/nithya7089/DSA-Problems/tree/master/0321-create-maximum-number) |
 | [0678-valid-parenthesis-string](https://github.com/nithya7089/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/nithya7089/DSA-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nithya7089/DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nithya7089/DSA-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nithya7089/DSA-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -1055,6 +1057,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/nithya7089/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/nithya7089/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/nithya7089/DSA-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nithya7089/DSA-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nithya7089/DSA-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nithya7089/DSA-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
