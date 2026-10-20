@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3870-count-commas-in-range](https://github.com/nithya7089/DSA-Problems/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nithya7089/DSA-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/nithya7089/DSA-Problems/tree/master/3886-sum-of-sortable-integers) |
 ## Array
 |  |
 | ------- |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3791-fruits-into-baskets-iii](https://github.com/nithya7089/DSA-Problems/tree/master/3791-fruits-into-baskets-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nithya7089/DSA-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/nithya7089/DSA-Problems/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3904-smallest-stable-index-ii) |
 ## Backtracking
 |  |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/nithya7089/DSA-Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/nithya7089/DSA-Problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3886-sum-of-sortable-integers](https://github.com/nithya7089/DSA-Problems/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -697,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nithya7089/DSA-Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/nithya7089/DSA-Problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3731-find-missing-elements](https://github.com/nithya7089/DSA-Problems/tree/master/3731-find-missing-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/nithya7089/DSA-Problems/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
 |  |
 | ------- |
