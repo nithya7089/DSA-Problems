@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/nithya7089/DSA-Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/nithya7089/DSA-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/nithya7089/DSA-Problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Greedy
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/nithya7089/DSA-Problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nithya7089/DSA-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/nithya7089/DSA-Problems/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/nithya7089/DSA-Problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Math
 |  |
 | ------- |
@@ -838,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/nithya7089/DSA-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/nithya7089/DSA-Problems/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/nithya7089/DSA-Problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## String Matching
 |  |
 | ------- |
@@ -1093,4 +1096,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nithya7089/DSA-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nithya7089/DSA-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nithya7089/DSA-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/nithya7089/DSA-Problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
