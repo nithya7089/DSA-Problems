@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/nithya7089/DSA-Problems/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/nithya7089/DSA-Problems/tree/master/0233-number-of-digit-one) |
 | [0368-largest-divisible-subset](https://github.com/nithya7089/DSA-Problems/tree/master/0368-largest-divisible-subset) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/nithya7089/DSA-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/nithya7089/DSA-Problems/tree/master/0486-predict-the-winner) |
 | [0670-maximum-swap](https://github.com/nithya7089/DSA-Problems/tree/master/0670-maximum-swap) |
 | [0826-soup-servings](https://github.com/nithya7089/DSA-Problems/tree/master/0826-soup-servings) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nithya7089/DSA-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/nithya7089/DSA-Problems/tree/master/0330-patching-array) |
 | [0368-largest-divisible-subset](https://github.com/nithya7089/DSA-Problems/tree/master/0368-largest-divisible-subset) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/nithya7089/DSA-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/nithya7089/DSA-Problems/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/nithya7089/DSA-Problems/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/nithya7089/DSA-Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
